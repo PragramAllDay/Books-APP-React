@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "https://mernappjs.herokuapp.com",
+  baseURL: "https://booksapplive.herokuapp.com",
 });
